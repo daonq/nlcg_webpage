@@ -1,1 +1,2 @@
+OwnerDomain=ngoilangcuagio.com
 google.com, pub-6931762265339695, DIRECT, f08c47fec0942fa0
